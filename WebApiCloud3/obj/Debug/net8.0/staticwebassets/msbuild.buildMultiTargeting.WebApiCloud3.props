@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiCloud3.props" />
+</Project>

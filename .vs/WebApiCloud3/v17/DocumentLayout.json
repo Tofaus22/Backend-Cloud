@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|c:\\users\\faust\\source\\repos\\webapicloud3\\webapicloud3\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F739CE2D-6A2A-4FED-91A7-DB8BE4EB0AFB}|WebApiCloud3\\WebApiCloud3.csproj|solutionrelative:webapicloud3\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApiCloud3\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:19:13.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "WebApiCloud3\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:17:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCloud3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\appsettings.json",
+              "RelativeToolTip": "WebApiCloud3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T05:50:27.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApiCloud3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:17:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Program.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Program.cs",
+              "RelativeToolTip": "WebApiCloud3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:03:59.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiCloud3\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:02:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApiCloud3\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:59:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Categoria.cs",
+              "RelativeToolTip": "WebApiCloud3\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:58:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApiCloud3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\WebApiCloud3\\WebApiCloud3\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebApiCloud3\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:57:58.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
